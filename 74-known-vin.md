@@ -13,7 +13,7 @@ Known VINs from the cars produced during the 1974 model year. This was the last 
 1442 014810 | | | | | | 
  | | | | | | 
 1442 080710 | | | | | | 
-1442 081176 |Cabriolet|Oct-73| | |[link](https://www.thesamba.com/vw/forum/viewtopic.php?t=193940&highlight=1974+vin)|
+1442 081176 |Cabriolet|Oct-73| | ||[link](https://www.thesamba.com/vw/forum/viewtopic.php?t=193940&highlight=1974+vin)
 1442 081778 | | | | | | 
 1442 081907 | | | | | | 
  | | | | | | 
