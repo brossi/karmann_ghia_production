@@ -1,7 +1,7 @@
 # 1974
 Known VINs from the cars produced during the 1974 model year. This was the last year Karmann Ghias were fabricated for Volkswagen by [Wilhelm Karmann GmbH](https://en.wikipedia.org/wiki/Karmann)'s Osnabrück, Germany factory.
 
-**VIN**|**Body Type**|**Production Date**|**Delivery Date**|**Delivery Location**|**Original Purchase Date**|**Reference**
+**VIN**|**Body Type**|**Prod. Date**|**Del. Date**|**Del. Location**|**Orig. Purchase Date**|**Ref(s)**
 -----|-----|-----|-----|-----|-----|-----
 1442 012245 | | | | | | 
 1442 012331 | | | | | | 
@@ -13,6 +13,7 @@ Known VINs from the cars produced during the 1974 model year. This was the last 
 1442 014810 | | | | | | 
  | | | | | | 
 1442 080710 | | | | | | 
+1442 081176 |Cabriolet|Oct-73| | |[link](https://www.thesamba.com/vw/forum/viewtopic.php?t=193940&highlight=1974+vin)|
 1442 081778 | | | | | | 
 1442 081907 | | | | | | 
  | | | | | | 
